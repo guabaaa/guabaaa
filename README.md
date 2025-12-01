@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm EunJin (Joy)</h2>
 <p align="center">
-  Frontend Developer · React / Next.js Specialist · Data Visualization & Dashboard Builder
+  Frontend Developer
 </p>
 
 ---
